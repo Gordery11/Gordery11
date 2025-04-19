@@ -1,5 +1,4 @@
 ## Hi there 👋
-[![roadmap.sh](https://roadmap.sh/card/wide/677b987870129741a8a18a34?variant=dark&roadmaps=cpp%2Cpython%2Clinux%2Ccode-review)](https://roadmap.sh)
 ## Learning!
 
 <!--
